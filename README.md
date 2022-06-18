@@ -4,7 +4,7 @@
 # Installation
 
 ```
-go get github.com/hakluke/hakurlencode
+go get github.com/driftsec/urlencode
 ```
 
 # Usage
@@ -12,8 +12,8 @@ go get github.com/hakluke/hakurlencode
 Pipe into the tool with no options to encode, for decoding, add `-d`.
 
 ```
-~$ echo "test!" | hakurlencode
+~$ echo "test!" | urlencode
 test%21
-~$ echo "test%21" | hakurlencode -d
+~$ echo "test%21" | urlencode -d
 test!
 ```
