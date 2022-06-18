@@ -1,4 +1,4 @@
-# hakurlencode
+# urlencode
 (en|de)code urls from the CLI
 
 # Installation
