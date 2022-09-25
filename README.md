@@ -4,7 +4,7 @@
 # Installation
 
 ```
-go get github.com/driftsec/urlencode
+go get github.com/DriftSec/urlencode
 ```
 
 # Usage
